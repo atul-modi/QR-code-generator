@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.0_fa4d0e259a91c26d629c4503ee24e41ad022c45e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_b6d7a7e8c3be855218857c46810a3e933f57c7d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.0_acce9a571943cb37d6c134b4f42e621081c1e588.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.0_5c956c204e132da15c6ac6defcfe62c171996675.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.0_8b50e50c68d4f1764d62df62c37b3930446d2360.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.0_e1d59151199d52cc0a0e0efc1b57e0ffcc35c8b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.0_4f8e0025116b7d9db4aba7200cec88d29d43142b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/pre-dexed/debug/core-3.2.1_0c0ae41747bbce3a322c04c2f4f4d4d9006a7221.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.0_c37d20b9c4dc7e528b10d38d3289b62f131b0d43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.0_f1312f1c2cd0a227335297725537528c9c325588.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/atul/Desktop/JAVA Programme/IMP/QRCodeGenerator/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.0_2f12b55b98b15d19b8bdb341006e0edc4e599c4b.jar" />
+    </item>
+
+</items>
